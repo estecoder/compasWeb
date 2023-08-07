@@ -1,0 +1,22 @@
+{
+  "name": "compasweb",
+  "version": "1.0.0",
+  "description": "Version inicial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estecoder/compasWeb.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/estecoder/compasWeb/issues"
+  },
+  "homepage": "https://github.com/estecoder/compasWeb#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
